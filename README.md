@@ -1,0 +1,2 @@
+# Kosmos
+Rstudio theme
