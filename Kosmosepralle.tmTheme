@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A9B1C9</string>
+				<string>#99A0B8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C4457A</string>
+				<string>#FF4A71</string>
 			</dict>
 		</dict>
 		<dict>
@@ -87,7 +87,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#16B374</string>
+				<string>#1DC280</string>
 			</dict>
 		</dict>
 		<dict>
@@ -124,7 +124,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFC857</string>
+				<string>#EDB458</string>
 			</dict>
 		</dict>
 		<dict>
@@ -189,7 +189,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0EAD69</string>
+				<string>#1DC280</string>
 				<key>foreground</key>
 				<string>#F3EDE2</string>
 			</dict>
@@ -239,7 +239,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff5b84</string>
+				<string>#FF4A71</string>
 			</dict>
 		</dict>
 		<dict>
@@ -261,7 +261,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F2618C</string>
+				<string>#79A6B5</string>
 			</dict>
 		</dict>
 	</array>
@@ -270,7 +270,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.kosmosepralle</string>
+	<string>theme.dark.kosmosepralle</string>
 	<key>author</key>
 	<string>Maris Vainre</string>
 </dict>
