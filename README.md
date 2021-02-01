@@ -1,7 +1,7 @@
 # Kosmosepralle:sparkles:
 An RStudio theme, available as `tmTheme` 
 
-![This is how it looks like](Kosmosepralle_illustration.PNG)
+![This is how it looks like](Illustration.PNG)
 
 ## How to install
 1. Download the theme: `Right click -> Save Link As...` will work fine.
